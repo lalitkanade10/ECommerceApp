@@ -1,0 +1,17 @@
+D:\DotNetCoreProjects\ECommerceApp\API\ECommerce\ECommerce.Repository\bin\Debug\net6.0\ECommerce.Repository.deps.json
+D:\DotNetCoreProjects\ECommerceApp\API\ECommerce\ECommerce.Repository\bin\Debug\net6.0\ECommerce.Repository.dll
+D:\DotNetCoreProjects\ECommerceApp\API\ECommerce\ECommerce.Repository\bin\Debug\net6.0\ECommerce.Repository.pdb
+D:\DotNetCoreProjects\ECommerceApp\API\ECommerce\ECommerce.Repository\bin\Debug\net6.0\ECommerce.Data.dll
+D:\DotNetCoreProjects\ECommerceApp\API\ECommerce\ECommerce.Repository\bin\Debug\net6.0\ECommerce.Models.dll
+D:\DotNetCoreProjects\ECommerceApp\API\ECommerce\ECommerce.Repository\bin\Debug\net6.0\ECommerce.Data.pdb
+D:\DotNetCoreProjects\ECommerceApp\API\ECommerce\ECommerce.Repository\bin\Debug\net6.0\ECommerce.Models.pdb
+D:\DotNetCoreProjects\ECommerceApp\API\ECommerce\ECommerce.Repository\obj\Debug\net6.0\ECommerce.Repository.csproj.AssemblyReference.cache
+D:\DotNetCoreProjects\ECommerceApp\API\ECommerce\ECommerce.Repository\obj\Debug\net6.0\ECommerce.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetCoreProjects\ECommerceApp\API\ECommerce\ECommerce.Repository\obj\Debug\net6.0\ECommerce.Repository.AssemblyInfoInputs.cache
+D:\DotNetCoreProjects\ECommerceApp\API\ECommerce\ECommerce.Repository\obj\Debug\net6.0\ECommerce.Repository.AssemblyInfo.cs
+D:\DotNetCoreProjects\ECommerceApp\API\ECommerce\ECommerce.Repository\obj\Debug\net6.0\ECommerce.Repository.csproj.CoreCompileInputs.cache
+D:\DotNetCoreProjects\ECommerceApp\API\ECommerce\ECommerce.Repository\obj\Debug\net6.0\ECommerce.Repository.csproj.CopyComplete
+D:\DotNetCoreProjects\ECommerceApp\API\ECommerce\ECommerce.Repository\obj\Debug\net6.0\ECommerce.Repository.dll
+D:\DotNetCoreProjects\ECommerceApp\API\ECommerce\ECommerce.Repository\obj\Debug\net6.0\refint\ECommerce.Repository.dll
+D:\DotNetCoreProjects\ECommerceApp\API\ECommerce\ECommerce.Repository\obj\Debug\net6.0\ECommerce.Repository.pdb
+D:\DotNetCoreProjects\ECommerceApp\API\ECommerce\ECommerce.Repository\obj\Debug\net6.0\ref\ECommerce.Repository.dll

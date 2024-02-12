@@ -1,0 +1,15 @@
+D:\DotNetCoreProjects\ECommerceApp\API\ECommerce\ECommerce.Models\bin\Debug\net6.0\ECommerce.Models.deps.json
+D:\DotNetCoreProjects\ECommerceApp\API\ECommerce\ECommerce.Models\bin\Debug\net6.0\ECommerce.Models.dll
+D:\DotNetCoreProjects\ECommerceApp\API\ECommerce\ECommerce.Models\bin\Debug\net6.0\ECommerce.Models.pdb
+D:\DotNetCoreProjects\ECommerceApp\API\ECommerce\ECommerce.Models\bin\Debug\net6.0\ECommerce.Data.dll
+D:\DotNetCoreProjects\ECommerceApp\API\ECommerce\ECommerce.Models\bin\Debug\net6.0\ECommerce.Data.pdb
+D:\DotNetCoreProjects\ECommerceApp\API\ECommerce\ECommerce.Models\obj\Debug\net6.0\ECommerce.Models.csproj.AssemblyReference.cache
+D:\DotNetCoreProjects\ECommerceApp\API\ECommerce\ECommerce.Models\obj\Debug\net6.0\ECommerce.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetCoreProjects\ECommerceApp\API\ECommerce\ECommerce.Models\obj\Debug\net6.0\ECommerce.Models.AssemblyInfoInputs.cache
+D:\DotNetCoreProjects\ECommerceApp\API\ECommerce\ECommerce.Models\obj\Debug\net6.0\ECommerce.Models.AssemblyInfo.cs
+D:\DotNetCoreProjects\ECommerceApp\API\ECommerce\ECommerce.Models\obj\Debug\net6.0\ECommerce.Models.csproj.CoreCompileInputs.cache
+D:\DotNetCoreProjects\ECommerceApp\API\ECommerce\ECommerce.Models\obj\Debug\net6.0\ECommerce.Models.csproj.CopyComplete
+D:\DotNetCoreProjects\ECommerceApp\API\ECommerce\ECommerce.Models\obj\Debug\net6.0\ECommerce.Models.dll
+D:\DotNetCoreProjects\ECommerceApp\API\ECommerce\ECommerce.Models\obj\Debug\net6.0\refint\ECommerce.Models.dll
+D:\DotNetCoreProjects\ECommerceApp\API\ECommerce\ECommerce.Models\obj\Debug\net6.0\ECommerce.Models.pdb
+D:\DotNetCoreProjects\ECommerceApp\API\ECommerce\ECommerce.Models\obj\Debug\net6.0\ref\ECommerce.Models.dll
